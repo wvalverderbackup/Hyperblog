@@ -7,6 +7,12 @@
     padding: 20px;
 }
 
+.cabecera {
+    font-size: 20px;
+    font-weight: bolder;
+    color: blueviolet;
+}
+
 h1 {
     text-align: center;
     
