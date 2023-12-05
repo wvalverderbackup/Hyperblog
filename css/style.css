@@ -34,3 +34,10 @@ img {
     height: 40px;
     width: 40px;
 }
+
+footer {
+    font-weight: bolder;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
