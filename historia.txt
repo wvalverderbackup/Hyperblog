@@ -7,3 +7,6 @@ Agregaremos a esto que tengo un hermano gemelo.
 Ahora agregamos que tiene como sobrinos a Alexia (kisifur) y
 a Fabian (PUDULS) que son todo un caso.
 un cambio mas.
+
+Agregamos un cambio en donde el usuario que ingresa a trabajar en el 
+proyecto es wvalverder.
