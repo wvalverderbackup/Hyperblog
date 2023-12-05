@@ -29,3 +29,8 @@ p {
     text-align: center;
     color:blue;
 }
+
+img {
+    height: 100%;
+    width: 10%;
+}
