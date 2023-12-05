@@ -29,3 +29,10 @@ p {
     text-align: center;
     color:blue;
 }
+
+footer {
+    font-weight: bolder;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+}
