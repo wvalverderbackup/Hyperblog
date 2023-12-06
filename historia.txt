@@ -33,3 +33,7 @@ Haremos otra pruebas ejecutando el git rebase para sacarme una duda.
 realizaremos otro commit de prueba a ver que pasa.
 cambios para limpiar
 
+Creditos:
+
+- Realizado por el team Platzi en conjunto con el team Securesoft.
+
