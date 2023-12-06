@@ -27,3 +27,5 @@ Ahora hablaremos sobre mi hermana Cristina , que es una Kisufur medium en todos 
 Aca muestro datos de mi sobrino Fabian que va en la rama experimento.
 
 y tambien hablaremos de Alexia , la super Kisufur.
+
+Haremos otra pruebas ejecutando el git rebase para sacarme una duda.
