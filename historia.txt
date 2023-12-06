@@ -12,3 +12,5 @@ Agregamos un cambio en donde el usuario que ingresa a trabajar en el
 proyecto es wvalverder.
 
 Master 1
+
+Master 2
