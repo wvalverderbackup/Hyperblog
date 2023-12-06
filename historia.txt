@@ -36,4 +36,5 @@ cambios para limpiar
 Creditos:
 
 - Realizado por el team Platzi en conjunto con el team Securesoft.
+- Agregamos los creditos tambien al team Supra Networks y Aruba Networks.
 
